@@ -1,3 +1,4 @@
+[WORK UNDER PROGRESS!!! This organization structure and repos are in process of being setup. Things may not work as expected sometimes.]
 # Institute of Geodesy
 The Institute of Geodesy was founded 150 years ago, when the University of Stuttgart was still called Polytechnical School. The reasearch portfolio at GIS over the past several decades covers a broad spectrum of research objectives in satellite geodesy and physical geodesy. The GIS research activities and expertise range from sensor analysis of geodetic satellites through geodetic data analysis methodology to modelling and application of geodetic products in hydrology, geophysics and oceanography.
 
